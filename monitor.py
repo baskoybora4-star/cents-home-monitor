@@ -1,0 +1,1 @@
+print("CEnT-S Monitor başlatıldı")
